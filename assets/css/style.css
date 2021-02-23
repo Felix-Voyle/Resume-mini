@@ -36,6 +36,10 @@ uppercase {
     color: #fafafa
 }
 
+.inline-block {
+    display: inline-block;
+}
+
 /* --------------------------------Heading */
 
 header {
